@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\dell\desktop\scool\softwareengineering\vc2013winformdrawingimage\vc2013winformdrawingimage\debug\project3.exe' is denied.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\dell\desktop\scool\softwareengineering\vc2013winformdrawingimage\vc2013winformdrawingimage\debug\project3.pdb' is denied.
+  MyForm.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Dell\Desktop\scool\softwareEngineering\vc2013winformDrawingImage\vc2013winformDrawingImage\Debug\Project3.exe'
